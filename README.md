@@ -1,4 +1,4 @@
 # BlackJack
 I recreate the game BlackJack
-![BlackJack](BlackJack.png)
+<img src="BlackJack.png" alt="BlackJack" width="300"/>
 )
